@@ -1,6 +1,4 @@
-# 2026 Canadian CS Internship Positions (Updated Daily)
-
-See also: [New Grad/Junior Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position)
+# 2026 Canadian CS new Grad/Junior Jobs (Updated Daily)
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
