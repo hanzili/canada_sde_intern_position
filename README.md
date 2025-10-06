@@ -1,5 +1,7 @@
 # 2026 Canadian CS new Grad/Junior Jobs (Updated Daily)
 
+See also: [Junior/New Grad Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position)
+
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
 | Developer Intern - Platform Advancement - Winter 2026 <!--id:566056971--> | 1Password | Remote | Remote | 2025-10-04 | [Apply](<https://jobs.ashbyhq.com/1password/7a8bab00-8c28-4485-9394-a0ef193426fe>) |
