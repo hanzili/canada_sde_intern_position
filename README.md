@@ -5,6 +5,11 @@ See also: [Junior/New Grad Jobs](https://github.com/hanzili/canada_sde_junior_ne
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
 | Engineer -iOS \ | Intern to Equity (2+ yrs Swift/SwiftUI experience) <!--id:563861915--> | FutureNexus Labs Inc. |  | Remote |  |
+| SAP iXp Intern - Agile Test Developer [Vancouver] <!--id:566751388--> | SAP | Vancouver, British Columbia | Onsite | 2025-10-07 | [Apply](<https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Test-Developer-Vancouver-Brit-V6B-1A9/1240433601/?feedId=384233&utm_campaign=SAP_Linkedin&utm_source=LinkedinJobPostings>) |
+| Data  Analyst  Training  & Internship <!--id:566786934--> | Ededge Learn |  | Remote | 2025-10-07 | [Apply](<https://ca.linkedin.com/jobs/view/data-analyst-training-internship-at-ededge-learn-4311552225>) |
+| Software Programming Intern <!--id:566841257--> | Soucy | Drummondville, Quebec | Onsite | 2025-10-07 | [Apply](<https://carriere.soucy-group.com/en/annonce/4004139-software-programming-intern-j2b-1t8-drummondville?s_o=linkedin>) |
+| Software Engineering Intern New <!--id:566885425--> | Ada Support | Remote | Remote | 2025-10-07 | [Apply](<https://job-boards.greenhouse.io/ada18/jobs/4934188007>) |
+| Co-op/ Intern Developer, Core Algorithms <!--id:566681664--> | Kinaxis | Ottawa, Ontario | Hybrid | 2025-10-07 | [Apply](<https://careers-kinaxis.icims.com/jobs/33688/co-op--intern-developer,-core-algorithms/job?iis=LinkedIn&iisn=LinkedIn&mode=apply>) |
 | Front End Intern <!--id:566288810--> | GenPark | Toronto, Ontario | Hybrid | 2025-10-06 | [Apply](<https://ca.linkedin.com/jobs/view/front-end-intern-at-genpark-4309493183>) |
 | Student Intern, Test Development <!--id:566496476--> | Celestica | Newmarket, ON | Remote | 2025-10-06 | [Apply](<https://careers.celestica.com/job/Newmarket-Student-Intern,-Test-Development-ON/1254766401/>) |
 | SAP iXp Intern - Data Scientist [Vancouver] <!--id:566502030--> | SAP | Vancouver, BC V6B 1A9 | Hybrid | 2025-10-06 | [Apply](<https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Data-Scientist-Vancouver-Brit-V6B-1A9/1254787701/?feedId=118200&utm_campaign=SAP_Indeed&utm_source=Indeed>) |
@@ -13,6 +18,7 @@ See also: [Junior/New Grad Jobs](https://github.com/hanzili/canada_sde_junior_ne
 | Data  Analyst   Internship  &  Training <!--id:566467217--> | Ededge Learn |  | Remote | 2025-10-06 | [Apply](<https://ca.linkedin.com/jobs/view/data-analyst-internship-training-at-ededge-learn-4311124528>) |
 | Software Engineer Intern <!--id:566496093--> | Khan Academy | Remote | Remote | 2025-10-06 | [Apply](<https://job-boards.greenhouse.io/khanacademy/jobs/7258549>) |
 | Growth & Systems — Marketing, AI Tools, Data & Research (Freelancer, Intern - Remote) <!--id:566406923--> | Final Expense Insurance Calgary | Calgary, Alberta | Remote | 2025-10-06 | [Apply](<https://ca.linkedin.com/jobs/view/growth-systems-%E2%80%94-marketing-ai-tools-data-research-freelancer-intern-remote-at-final-expense-insurance-calgary-4310890270>) |
+| Web Developer Intern <!--id:566891082--> | Konstruct Digital | Calgary, AB T2G 1R7 | Onsite | 2025-10-06 | [Apply](<https://konstruct.bamboohr.com/careers/48?postedDate=2025-10-06&source=indeed&src=indeed>) |
 | Developer Intern - Platform Advancement - Winter 2026 <!--id:566056971--> | 1Password | Remote | Remote | 2025-10-04 | [Apply](<https://jobs.ashbyhq.com/1password/7a8bab00-8c28-4485-9394-a0ef193426fe>) |
 | Developer Intern - App Launcher - Winter 2026 <!--id:566059583--> | 1Password | Remote | Remote | 2025-10-04 | [Apply](<https://jobs.ashbyhq.com/1password/c0d645a4-20fc-4573-a0e4-4c76a0a8d43b>) |
 | Software Engineer Intern <!--id:566158015--> | EatUbites | Mississauga, Ontario | Onsite | 2025-10-04 | [Apply](<https://ca.linkedin.com/jobs/view/software-engineer-intern-at-eatubites-4310599461>) |
