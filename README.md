@@ -4,7 +4,6 @@ See also: [Junior/New Grad Jobs](https://github.com/hanzili/canada_sde_junior_ne
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
-| Engineer -iOS \ | Intern to Equity (2+ yrs Swift/SwiftUI experience) <!--id:563861915--> | FutureNexus Labs Inc. |  | Remote |  |
 | SAP iXp Intern - Agile Test Developer [Vancouver] <!--id:566751388--> | SAP | Vancouver, British Columbia | Onsite | 2025-10-07 | [Apply](<https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Test-Developer-Vancouver-Brit-V6B-1A9/1240433601/?feedId=384233&utm_campaign=SAP_Linkedin&utm_source=LinkedinJobPostings>) |
 | Data  Analyst  Training  & Internship <!--id:566786934--> | Ededge Learn |  | Remote | 2025-10-07 | [Apply](<https://ca.linkedin.com/jobs/view/data-analyst-training-internship-at-ededge-learn-4311552225>) |
 | Software Programming Intern <!--id:566841257--> | Soucy | Drummondville, Quebec | Onsite | 2025-10-07 | [Apply](<https://carriere.soucy-group.com/en/annonce/4004139-software-programming-intern-j2b-1t8-drummondville?s_o=linkedin>) |
