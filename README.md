@@ -1,13 +1,14 @@
-# 2026 Canadian CS Internship Positions (Updated Daily)
+# 2026 Canadian CS new Grad/Junior Jobs (Updated Daily)
 
 See also: [Junior/New Grad Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position)
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
+| Software Engineering Intern <!--id:566920704--> | ada CX |  | Remote | 2025-10-08 | [Apply](<https://job-boards.greenhouse.io/ada18/jobs/4934188007>) |
+| Data  Analyst  Internship  &  Training <!--id:566961517--> | Ededge Groups |  | Remote | 2025-10-08 | [Apply](<https://ca.linkedin.com/jobs/view/data-analyst-internship-training-at-ededge-groups-4309513839>) |
 | SAP iXp Intern - Agile Test Developer [Vancouver] <!--id:566751388--> | SAP | Vancouver, British Columbia | Onsite | 2025-10-07 | [Apply](<https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Test-Developer-Vancouver-Brit-V6B-1A9/1240433601/?feedId=384233&utm_campaign=SAP_Linkedin&utm_source=LinkedinJobPostings>) |
 | Data  Analyst  Training  & Internship <!--id:566786934--> | Ededge Learn |  | Remote | 2025-10-07 | [Apply](<https://ca.linkedin.com/jobs/view/data-analyst-training-internship-at-ededge-learn-4311552225>) |
 | Software Programming Intern <!--id:566841257--> | Soucy | Drummondville, Quebec | Onsite | 2025-10-07 | [Apply](<https://carriere.soucy-group.com/en/annonce/4004139-software-programming-intern-j2b-1t8-drummondville?s_o=linkedin>) |
-| Software Engineering Intern New <!--id:566885425--> | Ada Support | Remote | Remote | 2025-10-07 | [Apply](<https://job-boards.greenhouse.io/ada18/jobs/4934188007>) |
 | Co-op/ Intern Developer, Core Algorithms <!--id:566681664--> | Kinaxis | Ottawa, Ontario | Hybrid | 2025-10-07 | [Apply](<https://careers-kinaxis.icims.com/jobs/33688/co-op--intern-developer,-core-algorithms/job?iis=LinkedIn&iisn=LinkedIn&mode=apply>) |
 | Front End Intern <!--id:566288810--> | GenPark | Toronto, Ontario | Hybrid | 2025-10-06 | [Apply](<https://ca.linkedin.com/jobs/view/front-end-intern-at-genpark-4309493183>) |
 | Student Intern, Test Development <!--id:566496476--> | Celestica | Newmarket, ON | Remote | 2025-10-06 | [Apply](<https://careers.celestica.com/job/Newmarket-Student-Intern,-Test-Development-ON/1254766401/>) |
