@@ -4,14 +4,20 @@ See also: [Junior/New Grad Jobs](https://github.com/hanzili/canada_sde_junior_ne
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
+| Research & Development Intern (Disability Ecosystem \| Global Policy \| AI + Inclusion) <!--id:567704935--> | Enabled Talent | Sudbury, Ontario | Hybrid | 2025-10-10 | [Apply](<https://ca.linkedin.com/jobs/view/research-development-intern-disability-ecosystem-global-policy-ai-+-inclusion-at-enabled-talent-4312193364>) |
 | Data Insight Analyst  Training & Internship <!--id:567350167--> | Ededge Groups |  | Remote | 2025-10-09 | [Apply](<https://ca.linkedin.com/jobs/view/data-insight-analyst-training-internship-at-ededge-groups-4309909988>) |
 | Digital Transformation Intern (Process Automation & AI Research and implementation) <!--id:567325406--> | Jenik Services Inc | Calgary, AB T2B 3R3 | Onsite | 2025-10-09 | [Apply](<http://ca.indeed.com/job/digital-transformation-intern-process-automation-ai-research-and-implementation-225000839df18bca>) |
+| Software Developer Intern (16 months) <!--id:567448387--> | IBM | Markham, Ontario | Hybrid | 2025-10-09 | [Apply](<https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54120&source=SN_LinkedIn>) |
+| AL/ ML Intern <!--id:567631470--> | Dure Technologies | Toronto, ON | Onsite | 2025-10-09 | [Apply](<http://ca.indeed.com/job/al-ml-intern-159465f2e56e82cc>) |
 | Software Engineering Intern <!--id:566920704--> | ada CX |  | Remote | 2025-10-08 | [Apply](<https://job-boards.greenhouse.io/ada18/jobs/4934188007>) |
 | Data  Analyst  Internship  &  Training <!--id:566961517--> | Ededge Groups |  | Remote | 2025-10-08 | [Apply](<https://ca.linkedin.com/jobs/view/data-analyst-internship-training-at-ededge-groups-4309513839>) |
 | Software Engineering Intern (12 Months) <!--id:567244687--> | Super.com |  | Remote | 2025-10-08 | [Apply](<https://jobs.lever.co/super-com/199e1180-916c-4857-893a-fe2cf15f31e7/apply?lever-source=LinkedIn&source=LinkedIn>) |
 | Data    Analytics  Training  &  Internship <!--id:567109488--> | Ededge Learn |  | Remote | 2025-10-08 | [Apply](<https://ca.linkedin.com/jobs/view/data-analytics-training-internship-at-ededge-learn-4312069390>) |
 | DevOps Intern New <!--id:567276924--> | Ada Support | Remote | Remote | 2025-10-08 | [Apply](<https://job-boards.greenhouse.io/ada18/jobs/4934925007>) |
 | Intern Researcher - Robot/Embodied AI <!--id:567279132--> | Huawei Canada | Markham, Ontario | Onsite | 2025-10-08 | [Apply](<https://huaweicanada.recruitee.com/o/intern-researcher-robotembodied-ai?source=LinkedIn>) |
+| Data Science Business Operations Intern <!--id:567529892--> | Boeing | Richmond, BC | Hybrid | 2025-10-08 | [Apply](<https://jobs.boeing.com/job/-/-/185/87039819792>) |
+| Data Science Intern <!--id:567529960--> | Boeing | Richmond, BC | Hybrid | 2025-10-08 | [Apply](<https://jobs.boeing.com/job/-/-/185/87039819648>) |
+| Data Engineering Intern <!--id:567535275--> | Boeing | Richmond, BC | Hybrid | 2025-10-08 | [Apply](<https://jobs.boeing.com/job/-/-/185/87039819776>) |
 | SAP iXp Intern - Agile Test Developer [Vancouver] <!--id:566751388--> | SAP | Vancouver, British Columbia | Onsite | 2025-10-07 | [Apply](<https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Test-Developer-Vancouver-Brit-V6B-1A9/1240433601/?feedId=384233&utm_campaign=SAP_Linkedin&utm_source=LinkedinJobPostings>) |
 | Data  Analyst  Training  & Internship <!--id:566786934--> | Ededge Learn |  | Remote | 2025-10-07 | [Apply](<https://ca.linkedin.com/jobs/view/data-analyst-training-internship-at-ededge-learn-4311552225>) |
 | Software Programming Intern <!--id:566841257--> | Soucy | Drummondville, Quebec | Onsite | 2025-10-07 | [Apply](<https://carriere.soucy-group.com/en/annonce/4004139-software-programming-intern-j2b-1t8-drummondville?s_o=linkedin>) |
