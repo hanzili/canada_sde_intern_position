@@ -4,11 +4,19 @@ See also: [Junior/New Grad Jobs](https://github.com/hanzili/canada_sde_junior_ne
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
-| Research & Development Intern (Disability Ecosystem \| Global Policy \| AI + Inclusion) <!--id:567704935--> | Enabled Talent | Sudbury, Ontario | Hybrid | 2025-10-10 | [Apply](<https://ca.linkedin.com/jobs/view/research-development-intern-disability-ecosystem-global-policy-ai-+-inclusion-at-enabled-talent-4312193364>) |
+| Research & Development Intern (Disability Ecosystem \ | Global Policy \ | AI + Inclusion) <!--id:567704935--> | Enabled Talent | Sudbury, Ontario |  |
+| 🆕 Co-op/Intern Intern Developer, Analytics Engine, Developer Framework <!--id:568090338--> | Kinaxis | Ottawa, ON | Hybrid | 2025-10-10 | [Apply](<https://careers-kinaxis.icims.com/jobs/33851/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&utm_source=indeed_integration>) |
+| 🆕 Software Analyst Intern - C++, Python, Git, Docker (8 months) <!--id:567922083--> | Hitachi Rail | Toronto, Ontario | Hybrid | 2025-10-10 | [Apply](<https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern---C----Python--Git--Docker--8-months_R1010726?source=LinkedIn>) |
+| 🆕 Data   Analyst   Training   &  Internship    Program <!--id:567976054--> | Ededge Learn |  | Remote | 2025-10-10 | [Apply](<https://ca.linkedin.com/jobs/view/data-analyst-training-internship-program-at-ededge-learn-4313249854>) |
+| 🆕 Full Stack Software Developer - Winter Intern <!--id:567959039--> | ReInvestWealth |  | Remote | 2025-10-10 | [Apply](<https://ca.linkedin.com/jobs/view/full-stack-software-developer-winter-intern-at-reinvestwealth-4313245808>) |
+| 🆕 Research Intern - AI-Driven System Design <!--id:568019364--> | Microsoft | Vancouver, BC | Onsite | 2025-10-10 | [Apply](<https://jobs.careers.microsoft.com/global/en/job/1894483>) |
 | Data Insight Analyst  Training & Internship <!--id:567350167--> | Ededge Groups |  | Remote | 2025-10-09 | [Apply](<https://ca.linkedin.com/jobs/view/data-insight-analyst-training-internship-at-ededge-groups-4309909988>) |
 | Digital Transformation Intern (Process Automation & AI Research and implementation) <!--id:567325406--> | Jenik Services Inc | Calgary, AB T2B 3R3 | Onsite | 2025-10-09 | [Apply](<http://ca.indeed.com/job/digital-transformation-intern-process-automation-ai-research-and-implementation-225000839df18bca>) |
 | Software Developer Intern (16 months) <!--id:567448387--> | IBM | Markham, Ontario | Hybrid | 2025-10-09 | [Apply](<https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54120&source=SN_LinkedIn>) |
 | AL/ ML Intern <!--id:567631470--> | Dure Technologies | Toronto, ON | Onsite | 2025-10-09 | [Apply](<http://ca.indeed.com/job/al-ml-intern-159465f2e56e82cc>) |
+| 🆕 Spring 2026 Electronics Software Development Intern (MS) <!--id:567879603--> | Synopsys | Vancouver, BC | Onsite | 2025-10-09 | [Apply](<https://careers.synopsys.com/job/-/-/44408/87085295680>) |
+| 🆕 Spring 2026 Lumerical Software Development Intern - Photonics (MS/PHD) <!--id:567879602--> | Synopsys | Vancouver, BC | Onsite | 2025-10-09 | [Apply](<https://careers.synopsys.com/job/-/-/44408/87085295152>) |
+| 🆕 Spring 2026 Intern - Software Development - Data Science (MS) <!--id:567879604--> | Synopsys | Vancouver, BC | Onsite | 2025-10-09 | [Apply](<https://careers.synopsys.com/job/-/-/44408/87085295088>) |
 | Software Engineering Intern <!--id:566920704--> | ada CX |  | Remote | 2025-10-08 | [Apply](<https://job-boards.greenhouse.io/ada18/jobs/4934188007>) |
 | Data  Analyst  Internship  &  Training <!--id:566961517--> | Ededge Groups |  | Remote | 2025-10-08 | [Apply](<https://ca.linkedin.com/jobs/view/data-analyst-internship-training-at-ededge-groups-4309513839>) |
 | Software Engineering Intern (12 Months) <!--id:567244687--> | Super.com |  | Remote | 2025-10-08 | [Apply](<https://jobs.lever.co/super-com/199e1180-916c-4857-893a-fe2cf15f31e7/apply?lever-source=LinkedIn&source=LinkedIn>) |
