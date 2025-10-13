@@ -4,7 +4,8 @@ See also: [Junior/New Grad Jobs](https://github.com/hanzili/canada_sde_junior_ne
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
-| 🆕 Junior Software Engineer Intern <!--id:568241836--> | Glistco | North York, ON M3J 3C7 | Onsite | 2025-10-11 | [Apply](<http://ca.indeed.com/job/junior-software-engineer-intern-36bfb7038bab14ee>) |
+| 🆕 Software Engineering, QA & Digital Marketing Internship Opportunities (Remote) <!--id:568324352--> | Go-Get-Friends International | Hamilton, Ontario | Remote | 2025-10-12 | [Apply](<https://ca.linkedin.com/jobs/view/software-engineering-qa-digital-marketing-internship-opportunities-remote-at-go-get-friends-international-4313697336>) |
+| Junior Software Engineer Intern <!--id:568241836--> | Glistco | North York, ON M3J 3C7 | Onsite | 2025-10-11 | [Apply](<http://ca.indeed.com/job/junior-software-engineer-intern-36bfb7038bab14ee>) |
 | Co-op/Intern Intern Developer, Analytics Engine, Developer Framework <!--id:568090338--> | Kinaxis | Ottawa, ON | Hybrid | 2025-10-10 | [Apply](<https://careers-kinaxis.icims.com/jobs/33851/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&utm_source=indeed_integration>) |
 | Software Analyst Intern - C++, Python, Git, Docker (8 months) <!--id:567922083--> | Hitachi Rail | Toronto, Ontario | Hybrid | 2025-10-10 | [Apply](<https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern---C----Python--Git--Docker--8-months_R1010726?source=LinkedIn>) |
 | Full Stack Software Developer - Winter Intern <!--id:567959039--> | ReInvestWealth |  | Remote | 2025-10-10 | [Apply](<https://ca.linkedin.com/jobs/view/full-stack-software-developer-winter-intern-at-reinvestwealth-4313245808>) |
