@@ -4,9 +4,9 @@ See also: [Junior/New Grad Jobs](https://github.com/hanzili/canada_sde_junior_ne
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
-| 🆕 2026 - Software Engineering Intern, Toronto <!--id:568983502--> | MongoDB | Toronto, Ontario | Onsite | 2025-10-15 | [Apply](<http://boards.greenhouse.io/mongodb/jobs/7239049?gh_src=ircv7l>) |
+| 2026 - Software Engineering Intern, Toronto <!--id:568983502--> | MongoDB | Toronto, Ontario | Onsite | 2025-10-15 | [Apply](<http://boards.greenhouse.io/mongodb/jobs/7239049?gh_src=ircv7l>) |
 | Software Engineering Intern <!--id:568636499--> | Texas Instruments | Toronto, Ontario | Onsite | 2025-10-14 | [Apply](<https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/25003391/?utm_medium=jobboard&utm_source=linkedin>) |
-| 🆕 Software Engineer Intern, Test Automation (Summer 2026) <!--id:568794691--> | Lyft | Montreal, Quebec | Hybrid | 2025-10-14 | [Apply](<http://boards.greenhouse.io/lyft/jobs/8168731002?gh_src=dd08aaff2us&source=LinkedIn>) |
+| Software Engineer Intern, Test Automation (Summer 2026) <!--id:568794691--> | Lyft | Montreal, Quebec | Hybrid | 2025-10-14 | [Apply](<http://boards.greenhouse.io/lyft/jobs/8168731002?gh_src=dd08aaff2us&source=LinkedIn>) |
 | Software Engineering, QA & Digital Marketing Internship Opportunities (Remote) <!--id:568324352--> | Go-Get-Friends International | Hamilton, Ontario | Remote | 2025-10-12 | [Apply](<https://ca.linkedin.com/jobs/view/software-engineering-qa-digital-marketing-internship-opportunities-remote-at-go-get-friends-international-4313697336>) |
 | Junior Software Engineer Intern <!--id:568241836--> | Glistco | North York, ON M3J 3C7 | Onsite | 2025-10-11 | [Apply](<http://ca.indeed.com/job/junior-software-engineer-intern-36bfb7038bab14ee>) |
 | Co-op/Intern Intern Developer, Analytics Engine, Developer Framework <!--id:568090338--> | Kinaxis | Ottawa, ON | Hybrid | 2025-10-10 | [Apply](<https://careers-kinaxis.icims.com/jobs/33851/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&utm_source=indeed_integration>) |
