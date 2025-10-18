@@ -4,7 +4,7 @@ See also: [Junior/New Grad Jobs](https://github.com/hanzili/canada_sde_junior_ne
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
-| 🆕 Android Developer- Intern to equity <!--id:569687508--> | FutureNexus Labs Inc. |  | Remote | 2025-10-16 | [Apply](<https://ca.linkedin.com/jobs/view/android-developer-intern-to-equity-at-futurenexus-labs-inc-4315517059>) |
+| Android Developer- Intern to equity <!--id:569687508--> | FutureNexus Labs Inc. |  | Remote | 2025-10-16 | [Apply](<https://ca.linkedin.com/jobs/view/android-developer-intern-to-equity-at-futurenexus-labs-inc-4315517059>) |
 | 2026 - Software Engineering Intern, Toronto <!--id:568983502--> | MongoDB | Toronto, Ontario | Onsite | 2025-10-15 | [Apply](<http://boards.greenhouse.io/mongodb/jobs/7239049?gh_src=ircv7l>) |
 | Co-op/Intern Developer, Analytics Engine, Computation as a Service <!--id:569297986--> | Kinaxis | Ottawa, Ontario | Hybrid | 2025-10-15 | [Apply](<https://careers-kinaxis.icims.com/jobs/33861/co-op-intern-developer,-analytics-engine,-computation-as-a-service/job?iis=LinkedIn&iisn=LinkedIn&mode=apply>) |
 | Full Stack Developer Intern (16 months) <!--id:569281434--> | IBM | Ottawa, Ontario | Hybrid | 2025-10-15 | [Apply](<https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64712&source=SN_LinkedIn>) |
