@@ -4,6 +4,10 @@ See also: [Junior/New Grad Jobs](https://github.com/hanzili/canada_sde_junior_ne
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
+| 🆕 Intern FPGA Compiler Software Engineer <!--id:570581423--> | Altera Corporation | Toronto, ON | Onsite | 2025-10-20 | [Apply](<https://www.jobs.ca/job/645886b0-0a0e-44ce-8826-9ba2a7f1d286>) |
+| 🆕 Software Engineer Intern (Winter 2026) 8-12 months <!--id:570504519--> | MASIV \| Mercedes and Singh Innovative Ventures | Calgary, Alberta | Onsite | 2025-10-20 | [Apply](<https://ca.linkedin.com/jobs/view/software-engineer-intern-winter-2026-8-12-months-at-masiv-mercedes-and-singh-innovative-ventures-4316637465>) |
+| 🆕 Cloud & AI Internship Program <!--id:570504512--> | Gigasphere | Montreal, Quebec | Remote | 2025-10-20 | [Apply](<https://ca.linkedin.com/jobs/view/cloud-ai-internship-program-at-gigasphere-4316638623>) |
+| 🆕 AI Security Engineer Intern - Internship Credit Only <!--id:570449022--> | Avaly.ai |  | Remote | 2025-10-20 | [Apply](<https://ca.linkedin.com/jobs/view/ai-security-engineer-intern-internship-credit-only-at-avaly-ai-4314380568>) |
 | Software Engineer Intern, Mobile Android (Summer 2026) <!--id:570194229--> | Lyft | Toronto, Ontario | Onsite | 2025-10-18 | [Apply](<http://boards.greenhouse.io/lyft/jobs/8131695002?gh_src=dd08aaff2us&source=LinkedIn>) |
 | Software Engineer: Internship Opportunities, Vancouver, BC <!--id:570197919--> | Microsoft | Vancouver, British Columbia | Onsite | 2025-10-18 | [Apply](<https://careers.microsoft.com/us/en/job/1871855/Software-Engineer-Internship-Opportunities-Vancouver-BC?iis=LinkedIn&jobsource=linkedin&mode=apply&utm_campaign=linkedin-feed&utm_source=Job+Board>) |
 | Android Developer- Intern to equity <!--id:569687508--> | FutureNexus Labs Inc. |  | Remote | 2025-10-16 | [Apply](<https://ca.linkedin.com/jobs/view/android-developer-intern-to-equity-at-futurenexus-labs-inc-4315517059>) |
@@ -11,6 +15,7 @@ See also: [Junior/New Grad Jobs](https://github.com/hanzili/canada_sde_junior_ne
 | Co-op/Intern Developer, Analytics Engine, Computation as a Service <!--id:569297986--> | Kinaxis | Ottawa, Ontario | Hybrid | 2025-10-15 | [Apply](<https://careers-kinaxis.icims.com/jobs/33861/co-op-intern-developer,-analytics-engine,-computation-as-a-service/job?iis=LinkedIn&iisn=LinkedIn&mode=apply>) |
 | Full Stack Developer Intern (16 months) <!--id:569281434--> | IBM | Ottawa, Ontario | Hybrid | 2025-10-15 | [Apply](<https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64712&source=SN_LinkedIn>) |
 | [Summer 2026 Canada] Software Engineer Intern <!--id:569131936--> | Roblox | Vancouver, British Columbia | Onsite | 2025-10-15 | [Apply](<https://careers.roblox.com/jobs/7206219?gh_jid=7206219&gh_src=da92d0c91>) |
+| 🆕 SW Developer Intern <!--id:570525667--> | Ericsson | Fredericton, NB | Onsite | 2025-10-15 | [Apply](<https://jobs.ericsson.com/careers/job/563121772672163?domain=ericsson.com>) |
 | Software Engineering Intern <!--id:568636499--> | Texas Instruments | Toronto, Ontario | Onsite | 2025-10-14 | [Apply](<https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/25003391/?utm_medium=jobboard&utm_source=linkedin>) |
 | Software Engineer Intern, Test Automation (Summer 2026) <!--id:568794691--> | Lyft | Montreal, Quebec | Hybrid | 2025-10-14 | [Apply](<http://boards.greenhouse.io/lyft/jobs/8168731002?gh_src=dd08aaff2us&source=LinkedIn>) |
 | Spring 2026 Intern - Software Development and Testing ( <!--id:569148196--> | Synopsys | Ottawa, ON | Onsite | 2025-10-14 | [Apply](<https://careers.synopsys.com/job/-/-/44408/87261490544>) |
