@@ -6,7 +6,8 @@ See also: [Junior/New Grad Jobs](https://github.com/hanzili/canada_sde_junior_ne
 |---|---|---|:--:|:--:|:---:|
 | Software Engineer Intern (Winter 2026) 8-12 months <!--id:570504519--> | MASIV \ | Mercedes and Singh Innovative Ventures | Calgary, Alberta | Onsite |  |
 | Data Developer - Dead by Daylight - Internship Winter 2026 \ | Développeur·se de données Dead by Daylight - Stage Hiver 2026 <!--id:573702734--> | Behaviour Interactive | Montreal, Quebec | Hybrid |  |
-| 🆕 Data Analyst  Internship  and Training <!--id:580077881--> | Ededge Groups |  | Remote | 2025-11-22 | [Apply](<https://ca.linkedin.com/jobs/view/data-analyst-internship-and-training-at-ededge-groups-4347194376>) |
+| 🆕 Data Analyst  Internship   and  Training <!--id:580200567--> | Ededge Groups |  | Remote | 2025-11-23 | [Apply](<https://ca.linkedin.com/jobs/view/data-analyst-internship-and-training-at-ededge-groups-4347541104>) |
+| Data Analyst  Internship  and Training <!--id:580077881--> | Ededge Groups |  | Remote | 2025-11-22 | [Apply](<https://ca.linkedin.com/jobs/view/data-analyst-internship-and-training-at-ededge-groups-4347194376>) |
 | AI Specialist Intern – Entry Level Sales Program 2026 <!--id:579849078--> | IBM | Montreal, Quebec | Hybrid | 2025-11-21 | [Apply](<https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61993&source=SN_LinkedIn>) |
 | Structural Engineer-in-Training - New Graduate <!--id:579359443--> | Hatch | Vancouver, British Columbia | Onsite | 2025-11-20 | [Apply](<https://jobs.hatch.com/job/Vancouver-Structural-Engineer-in-Training-New-Graduate-BC/1333052100/?utm_medium=referrer&utm_source=LINKEDIN>) |
 | Undergraduate / Graduate Co-op Student – Software Engineer – Large Molecule Discovery - Technology <!--id:577355912--> | Amgen | Burnaby, BC | Onsite | 2025-11-12 | [Apply](<https://careers.amgen.com/job/-/-/87/88349986640>) |
