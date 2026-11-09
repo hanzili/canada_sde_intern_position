@@ -30,76 +30,25 @@ See also: [Junior/New Grad Jobs](https://github.com/hanzili/canada_sde_junior_ne
 - [Startup / VC / Ops](#startup-vc-ops)
 
 ## Software Engineering
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Intern - Software Engineer, Winter 2027 <!--id:874805961--> | EQ Bank \| Canada's Challenger Bank | Develop frontend/backend features, test, review code | Canadian challenger bank offering digital banking | Intern · 8mo · January-August 2027 | Toronto (Hybrid) | [Apply](<https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3>) |
-| Software Developer, Winter 2027 (Co-op/Internship) - 4 Months <!--id:874636332--> | Bmo Privileged | Develop features, test, and maintain software. | Canadian bank with campus technology program. | Co-op · 4mo · Winter 2027 | Toronto, ON, CAN (Onsite) | [Apply](<https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638-3>) |
-| 🔥 Intern - Software Engineer, Winter 2027 <!--id:874195771--> | EQ Bank \| Canada's Challenger Bank | Build APIs/UI, test, and review code. | Canada's Challenger Bank; fintech innovator | Intern · 8mo · Winter 2027 | Toronto, ON (Hybrid) | [Apply](<https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3?lever-source=Indeed>) |
-| Co-op/Intern Software Developer, Core Algorithms <!--id:872758468--> | Kinaxis | Develop core algorithms, fix bugs, optimize. | Canada-based supply chain software leader. | Co-op · 8-12mo · $27.04-$39.66/hr · Winter 2027 | Ottawa, Ontario (Hybrid) | [Apply](<https://www.linkedin.com/jobs/view/4476964279/>) |
-| Co-Op Student - Application Developer <!--id:872684558--> | City of Mississauga | Assist with .NET web app development and testing | City of Mississauga, municipal government | Co-op · 4mo · $20.64-24.53/hr · Winter 2027 | Mississauga, Ontario (Hybrid) | [Apply](<https://www.linkedin.com/jobs/view/4474496200/>) |
-| 🔥 Software Developer, Co-op <!--id:872471210--> | Clio | Design and implement features; participate in reviews. | Cloud-based legal software, VC-backed and growing. | Co-op · 8mo · $67K CAD · Winter 2027 | Toronto (Onsite) | [Apply](<https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577>) |
-| Stagiaire Développeur(se) Full Stack Java / Java Developer Intern -  Hiver/Winter 2027 <!--id:874008973--> | McKesson | Design and implement Java full-stack web apps | Fortune 10 healthcare leader; global impact. | Intern · $16.56-$26.41/hr · Winter 2027 | Montreal, Quebec (Onsite) | [Apply](<https://www.linkedin.com/jobs/view/4476772875/>) |
-| 🔥 Software Engineer Intern, 2027 Canada <!--id:872774654--> | Atlassian | Contribute code, build features, learn full lifecycle | Global software company enabling teamwork at scale | Intern · 4mo · CA$40/hr - CA$45/hr · Summer 2027 | Onsite | [Apply](<https://www.linkedin.com/jobs/view/4467791221/>) |
-| Software Developer Co-op - Red River College <!--id:872244718--> | Siemens Healthineers | Develop software features, write code, test and review | Global medical technology leader; oncology software focus | Co-op | YWG BW (Onsite) | [Apply](<https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142>) |
-| Full Stack Software Engineer Intern - Product <!--id:871142906--> | ValueHosting | Build full-stack UI and API features. | Minecraft hosting platform, API-driven tooling | Intern | Greater Toronto Area (Remote) | [Apply](<https://www.linkedin.com/jobs/view/4476341680/>) |
-| Software Developer Co-op <!--id:873067457--> | Semios | Build React UI features with TypeScript and tests | Agritech leader, global farming platform | Co-op · Winter 2027 · $20-24/hr | Vancouver, British Columbia (Hybrid) | [Apply](<https://www.linkedin.com/jobs/view/4474978010/>) |
-| Junior Full Stack Developer Coop <!--id:872514954--> | Magna International | Build full-stack features and APIs | Cosma division of Magna International | Co-op · 3mo · Summer 2026 | Milton, Ontario (Onsite) | [Apply](<https://www.linkedin.com/jobs/view/4420631844/>) |
-| 🔥 Intern, Full Stack Software Engineer - Summer 2027 <!--id:870943474--> | Capital One | Develop full-stack features, review code, test | Canada-based bank tech with mentorship program | Intern · 4mo · $33.33–$48.72/hr · Summer 2027 | Toronto, ON (Onsite) | [Apply](<https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Summer-2027_R1003143>) |
-| Stagiaire - Développeur Full Stack-EN <!--id:870910308--> | CAE | Develop full-stack features with React/Angular and C# | Global leader in aviation training simulations | Co-op | Montreal, Quebec (Remote) | [Apply](<https://www.linkedin.com/jobs/view/4474089245/>) |
-| Embedded Software Engineer Co-op/Intern <!--id:870382612--> | Lumentum Operations LLC | Develop embedded C/C++ software; debug features | Optoelectronics company enabling high-speed networks | Co-op · 8-12 months · $24-35/hr | Ottawa, ON (Onsite) | [Apply](<https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370>) |
-| 2027 Winter Co-op Vehicle Experience Software Developer <!--id:870386860--> | Gm | Develop vehicle software, test, and debug prototypes | Global automaker with extensive software teams | Co-op · 12mo · $4,264.00/mo to $4,784.00/mo · Winter 2027 | Markham, Ontario, Canada (Hybrid) | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Vehicle-Experience-Software-Developer_JR-202621872>) |
-| Stagiaire - Développeur Full Stack <!--id:870124607--> | CAE | Develop and maintain web apps, test features | Global leader in aviation training solutions | Co-op | Saint-Laurent, QC (Remote) | [Apply](<https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1>) |
-| Software Developer (Co-op Opportunities) <!--id:870288967--> | Fullscript | Contribute to real projects, build features, fix bugs | Health tech company empowering practitioners and patients | Co-op · 4mo · $30/hr · Winter 2027 | Ottawa, ON (Remote) | [Apply](<https://jobs.lever.co/fullscript/f2682bc2-454c-4bcd-b71c-639236d09a8e?lever-source=Indeed>) |
-| Stagiaire Développeur(se) Full Stack Java / Java Developer Intern -  Hiver/Winter 2027 <!--id:870066011--> | McKesson | Develop web apps, REST APIs, and front-end components | Fortune 10 healthcare leader | Intern · 4mo · Winter 2027 | CAN, QC, Montreal, Ville Saint-Laurent (Hybrid) | [Apply](<https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-Dveloppeur-se--Full-Stack-Java---Java-Developer-Intern----Hiver-Winter-2027_JR0155176>) |
-| 🔥 Software Engineer, Intern (Summer 2027) - TOR <!--id:869522700--> | DoorDash | Develop, test, and ship software with mentorship | Global on-demand delivery platform; strong engineering culture | Intern · 4mo · $94,500–$118,000 CAD · Summer 2027 | Toronto, Ontario (Onsite) | [Apply](<https://www.linkedin.com/jobs/view/4466147913/>) |
+_No roles currently_
 
 ## Data / ML
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| AI/ML Research Intern <!--id:875577989--> | DRW | Develop ML models, build data pipelines, evaluate. | Quant trading firm with strong tech culture. | Intern | Montreal, Quebec (Onsite) | [Apply](<https://www.linkedin.com/jobs/view/4437608438/>) |
-| AI Software Intern (Canada) <!--id:873894737--> | Tenstorrent University Jobs | Develop ML models, kernels, and inference tooling | AI hardware startup focused on high-performance AI | Intern | Toronto, Ontario, Canada (Onsite) | [Apply](<https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007>) |
-| AI Software Intern (Canada) <!--id:873657680--> | Tenstorrent | Experiment with ML models, optimize kernels, deploy | Canadian AI hardware startup, fast-growing | Intern | Toronto, Ontario (Onsite) | [Apply](<https://www.linkedin.com/jobs/view/4475934976/>) |
-| Stagiaire en IA et robotique / AI/ML/Robotics Developer Intern <!--id:872684433--> | CM Labs Simulations | Prototype AI/robotics integrations for autonomous systems | Leading simulator platform for heavy equipment training | Intern · 4mo | Montreal, Quebec (Onsite) | [Apply](<https://www.linkedin.com/jobs/view/4474495356/>) |
-| Stagiaire en IA et robotique / AI/ML/Robotics Developer Intern <!--id:873607004--> | CM Labs | Prototype AI/robotics solutions in simulation | Leading simulator solutions for heavy equipment | Intern · 4mo | Montreal, Quebec, Canada (Hybrid) | [Apply](<https://cmlabs.bamboohr.com/careers/132>) |
-| 2027 Data Analytics & AltaGas - 2027 Process Automation Co-op Student <!--id:871065088--> | AltaGas Ltd. | Analyze data, build dashboards, automate processes | Canadian energy company, data-driven optimization | Co-op · 4mo · Winter 2027 | Calgary, Alberta (Onsite) | [Apply](<https://www.linkedin.com/jobs/view/4475160149/>) |
-| 🔥 Machine Learning Intern – Summer 2027 <!--id:870993475--> | BNP Paribas | Develop ML models, run experiments, analyze data | Global bank investing in AI and innovation | Intern · 4mo · Summer 2027 | Montreal, Quebec (Onsite) | [Apply](<https://www.linkedin.com/jobs/view/4474417895/>) |
-| Stage coopératif - Hiver 2027: Développeur BI (4 mois) <!--id:870910317--> | CGI | Develop BI/ETL code, test, and document | Global IT services leader | Co-op · 4mo · $18-32/hr · Winter 2027 | Saguenay, Quebec (Onsite) | [Apply](<https://www.linkedin.com/jobs/view/4476524902/>) |
-| Machine Learning Intern - Summer 2027 <!--id:870866859--> | BNP Paribas | Contribute to applied AI research projects | Global bank with AI research labs | Intern · 4mo · Summer 2027 | Montréal, QC (Onsite) | [Apply](<https://group.bnpparibas/en/careers/job-offer/machine-learning-intern-summer-2027>) |
-| 2027 Data Analytics & AltaGas - 2027 Process Automation Co-op Student <!--id:871044261--> | AltaGas Ltd. | Analyze data, build dashboards, automate reporting | Energy infrastructure leader with large-scale project portfolio | Co-op · 4mo · Winter 2027 | Calgary, AB (Onsite) | [Apply](<https://wgl.wd5.myworkdayjobs.com/en-US/AltaGas/job/Calgary-AB/XMLNAME-2027-Data-Analytics---AltaGas---2027-Process-Automation-Co-op-Student_R7321-1>) |
-| AI Engineer Intern (Masters) <!--id:871085031--> | Electronic Arts | Develop AI infrastructure, deploy ML models at scale | Global game publisher with scalable platforms | Intern · 4mo · $65K-$70K CAD/yr · Summer 2026 | Vancouver, BC (Onsite) | [Apply](<https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer-Intern-Masters/216223>) |
-| Winter 2027 Co-op: BI Developer (4 months) <!--id:870950428--> | CGI | Write, modify, and test BI data pipelines | Global IT services firm with diverse clients | Co-op · 4mo · $18-32/hr · Winter 2027 | Saguenay, QC G7H 7K9 (Onsite) | [Apply](<https://indeed.njoyn.com/corp/xweb/XWeb.asp?BRID=1339282&JobID=J0926-1108&clid=21001&page=jobdetails&sbdid=936>) |
-| AltaGas - 2027 Digital (NextGen AI & Data) Intern <!--id:871196470--> | AltaGas Ltd. | Assist in data platforms, pipelines, and AI projects | Canadian energy company embracing data and AI. | Intern · 4mo · Winter 2027 | Calgary, AB (Onsite) | [Apply](<https://wgl.wd5.myworkdayjobs.com/AltaGas/job/Calgary-AB/AltaGas---2027-Digital--NextGen-AI---Data--Intern_R7312>) |
+_No roles currently_
 
 ## DevOps / SRE / Platform
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Software Developer Coop-EN <!--id:870930819--> | CAE | Prototype platform tooling, automate developer workflows | Canada-based defense and simulation tech leader | Co-op · 8mo | Montreal, Quebec (Onsite) | [Apply](<https://www.linkedin.com/jobs/view/4474092121/>) |
-| Software Developer Coop <!--id:870124611--> | CAE | Contribute to developer platform, automate pipelines and tooling | Global leader in simulation and training solutions | Co-op | Saint-Laurent, QC (Onsite) | [Apply](<https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904>) |
-| AI SW Intern, Infrastructure & Data Centre Deployment <!--id:869993922--> | Tenstorrent University Jobs | Automate deployments, monitor clusters, fix infra | AI hardware startup; scalable compute platforms | Intern | Toronto, Ontario, Canada (Onsite) | [Apply](<https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256579007>) |
+_No roles currently_
 
 ## Security
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| 🔥 Browser Security Engineer Intern, (Winter 2026) <!--id:869061100--> | GeoComply | Perform original browser bot-detection research and test | Unicorn geolocation security company with fraud focus | Intern · 4mo · $54K-$62K/yr (prorated) · Winter 2026 | Vancouver, British Columbia (Hybrid) | [Apply](<https://www.linkedin.com/jobs/view/4476111845/>) |
+_No roles currently_
 
 ## Mobile
 _No roles currently_
 
 ## QA / Test / Automation
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Intern, Analyst Quality Assurance (Winter 2027) <!--id:874796320--> | Bombardier | Assist QA testing, document processes, enforce quality standards | Bombardier internship program | Intern · 8mo · Winter 2027 | St-Laurent, Québec, CA, H4R 1K2 (Onsite) | [Apply](<https://jobs.bombardier.com/job/St-Laurent-Intern,-Analyst-Quality-Assurance-(Winter-2027)-Qu%C3%A9b-H4R-1K2/1445821833/>) |
-| Intern, Quality Assurance <!--id:874320932--> | Moderna | Assist QA documentation, records, and training administration | Biopharma leader advancing mRNA therapeutics | Intern · 4mo · $29.40/hr · Summer 2027 | Laval - Canada (Onsite) | [Apply](<https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Laval---Canada/Intern--Quality-Assurance_R19944>) |
-| Co-Op, Quality Assurance <!--id:874320930--> | Moderna | Assist QA docs, records, and training compliance | Biopharma leader with GMP manufacturing focus | Co-op · 4mo · $26.60 - $29.40 · Spring 2026 | Laval - Canada (Onsite) | [Apply](<https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Laval---Canada/Co-Op--Quality-Assurance_R19943>) |
-| Stagiaire en automatisation de l’assurance qualité (AQ) / QA Automation Engineer Intern - Hiver /Winter 2027 <!--id:870066013--> | McKesson | Design, develop, and maintain automated test scripts | Fortune 10 healthcare tech leader. | Intern · 4mo · $16.56 - $26.41/hr · Winter 2027 | CAN, QC, Montreal, Ville Saint-Laurent (Hybrid) | [Apply](<https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-automatisation-de-l-assurance-qualit--AQ----QA-Automation-Engineer-Intern---Hiver--Winter-2027_JR0155181>) |
+_No roles currently_
 
 ## Hardware / Firmware
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Software Developer, Embedded Appliances Co-Op <!--id:872843491--> | Motorola Solutions | Develop embedded C++ software for Linux | Global leader in secure video surveillance. | Intern · $45,600-$66,000 CAD/yr | Greater Vancouver Metropolitan Area (Onsite) | [Apply](<https://www.linkedin.com/jobs/view/4476978297/>) |
-| Software Developer, Embedded Appliances Co-Op <!--id:872574775--> | Motorolasolutions | Develop C++ software for embedded Linux systems | Global security tech leader in video solutions | Intern · $45,600-$66,000 CAD/yr | Vancouver, Canada (Onsite) | [Apply](<https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Software-Developer--Embedded-Appliances-Co-Op_R69581>) |
-| Hardware Design Co-Op (Winter 2027 - 4 Months) <!--id:870947476--> | Ciena Careers | Verify hardware, debug prototypes, run tests, iterate. | Global networking leader with significant market reach. | Co-op · 4mo · $25.50-$35.00/hour · Winter 2027 | Ottawa (Onsite) | [Apply](<https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Design-Co-Op--Winter-2027---4-Months-_R031782>) |
-| Hardware Intern - AI HW & System on a Chip <!--id:869993921--> | Tenstorrent University Jobs | Assist ASIC architecture, RTL design, verification | Canadian AI hardware startup focused on SoC design. | Intern | Ottawa, Ontario, Canada; Toronto, Ontario, Canada (Onsite) | [Apply](<https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007>) |
+_No roles currently_
 
 ## Product / TPM
 _No roles currently_
@@ -108,9 +57,7 @@ _No roles currently_
 _No roles currently_
 
 ## Solutions / Customer Engineering
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Software Developer Intern (Solutions Engineering Core Team), Winter 2027 <!--id:870818493--> | Coveo | Build demo interfaces, tools, and proofs | Montreal-based AI search platform leader | Intern · 4mo · Winter 2027 | Montreal (Province of Quebec, Canada) (Onsite) | [Apply](<https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002>) |
+_No roles currently_
 
 ## Startup / VC / Ops
 _No roles currently_
